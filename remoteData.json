@@ -1,0 +1,131 @@
+{
+    "headers": {
+        "response_code": "0000",
+        "response_message": "Successful"
+    },
+    "body": [
+        {
+            "center_id": 3,
+            "center_name": "Building 1",
+            "prevent_further_use": false,
+            "site_id": 4,
+            "site_name": "Building 1",
+            "show_on_member_app": "N",
+            "member_app_image": "",
+            "latitude": "35.2105",
+            "longitude": "-135.9185",
+            "description": "",
+            "customer_webpage_url": "",
+            "address1": "700 S. Sample",
+            "address2": "",
+            "city": "Lakeside",
+            "state": "TX",
+            "zip_code": "75016",
+            "country": "US",
+            "phone1": "5555555555",
+            "phone2": "",
+            "fax": "5555555555",
+            "default_hours_of_operation": {
+                "default_opens": null,
+                "default_closes": null
+            },
+            "Sunday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Monday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Tuesday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Wednesday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Thursday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Friday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Saturday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            }
+        },
+        {
+            "center_id": 5,
+            "center_name": "Building 2",
+            "prevent_further_use": false,
+            "site_id": 6,
+            "site_name": "Building 2",
+            "show_on_member_app": "N",
+            "member_app_image": "",
+            "latitude": "35.2105",
+            "longitude": "-135.9185",
+            "description": "",
+            "customer_webpage_url": "",
+            "address1": "800 S. Sample",
+            "address2": "",
+            "city": "Lakeside",
+            "state": "TX",
+            "zip_code": "75016",
+            "country": "US",
+            "phone1": "5555555555",
+            "phone2": "",
+            "fax": "5555555555",
+            "default_hours_of_operation": {
+                "default_opens": null,
+                "default_closes": null
+            },
+            "Sunday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Monday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Tuesday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Wednesday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Thursday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Friday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            },
+            "Saturday_hours_of_operation": {
+                "closed_all_day": false,
+                "opens": null,
+                "closes": null
+            }
+    
+        }
+    ]
+}
